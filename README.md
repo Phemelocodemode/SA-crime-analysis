@@ -57,5 +57,3 @@ An analysis of South African crime statistics by province and category, normaliz
 * Dataset covers **2015–2016**, the latest available year.
 * Population is a single snapshot, so per-capita rates are approximate.
 
-
-Do you want me to also make it **short recruiter-friendly version** (like 3–4 sentences at the top) you could paste into your CV/LinkedIn alongside this repo link? That way you reuse the same project description everywhere.
