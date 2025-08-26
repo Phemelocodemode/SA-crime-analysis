@@ -28,10 +28,6 @@ This project analyzes South African crime statistics by province and category, a
    ```
 3. Outputs will appear in `sa-crime-analysis-output/`.
 
-## Notes
-- The latest available year in this dataset is **2015-2016**.
-- Population is a single snapshot, so per-capita rates are indicative rather than exact for that year.
-
 
   ## Visualizations
 
@@ -42,5 +38,12 @@ This project analyzes South African crime statistics by province and category, a
 ![Crime Rate per 100k](figures/crime_rate_per_100k_2015-2016.png)
 
 ### Top 10 Crime Categories
-![Top 10 Categories](figures/top10_categories_2015-2016.png)
+![Top 10 Categories](
+
+## Notes
+- The latest available year in this dataset is **2015-2016**.
+- Population is a single snapshot, so per-capita rates are indicative rather than exact for that year.
+
+
+figures/top10_categories_2015-2016.png)
 
