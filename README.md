@@ -1,7 +1,3 @@
-This is already solid, bro — clear, structured, and professional. But if you want it to look sharper for recruiters or collaborators, I’d polish the flow a bit, cut redundancy, and tighten the wording. Here’s a cleaner, more “GitHub-ready” version you can use:
-
----
-
 # South Africa Crime Analysis (2015–2016)
 
 An analysis of South African crime statistics by province and category, normalized by population to compute per-capita rates.
