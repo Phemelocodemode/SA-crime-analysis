@@ -32,13 +32,13 @@ This project analyzes South African crime statistics by province and category, a
   ## Visualizations
 
 ### Total Crimes by Province (2015–2016)
-![Total Crimes by Province](figures/total_crimes_by_province_2015-2016.png)
+![Total Crimes by Province](figures/total_crimes_by_province_2015-2016.jpg)
 
 ### Crime Rate per 100k Population
-![Crime Rate per 100k](figures/crime_rate_per_100k_2015-2016.png)
+![Crime Rate per 100k](figures/crime_rate_per_100k_2015-2016.jpg)
 
 ### Top 10 Crime Categories
-![Top 10 Categories](figures/top10_categories_2015-2016.png)
+![Top 10 Categories](figures/top10_categories_2015-2016.jpg)
 
 ## Notes
 - The latest available year in this dataset is **2015-2016**.
