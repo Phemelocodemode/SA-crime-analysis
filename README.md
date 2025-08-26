@@ -45,5 +45,6 @@ This project analyzes South African crime statistics by province and category, a
 - Population is a single snapshot, so per-capita rates are indicative rather than exact for that year.
 
 
-figures/top10_categories_2015-2016.png)
+![Total Crimes](total_crimes_by_province_2015-2016.png)
+
 
